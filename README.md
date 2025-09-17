@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aravindan R</h1>
-<h3 align="center">💻 Developer | 🚀 Open Source Enthusiast | 🌱 Lifelong Learner</h3>
+<h3 align="center">💻 Javascript Developer | 🔧 Automation & CI/CD | 🌱 Lifelong Learner</h3>
 
 - 🔭 I’m currently working on **Jenkins, Docker**
 
